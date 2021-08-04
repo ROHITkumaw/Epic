@@ -7,6 +7,7 @@ public class Base {
 	{
 		System.out.println("Hello");
 		System.out.println("Hello Rohit");
+		System.out.println("New update");
 	}
     
 }
