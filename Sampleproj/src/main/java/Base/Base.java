@@ -10,7 +10,9 @@ public class Base {
 
 		System.out.println("New update");
 
-		System.out.println("Hello ankit");   
+		System.out.println("Hello ankit"); 
+		System.out.println("Hello ankit"); 
+		
 		
 
 	}
